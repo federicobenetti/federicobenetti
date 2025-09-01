@@ -45,6 +45,3 @@
 ## 🤝 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/federico-benetti)  
 - 📧 Email: benetti.fede@gmail.com  
-
----
-⭐️ *I love collaborating on projects that explore data through statistics, visualization, and reproducible methods!*
