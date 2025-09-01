@@ -30,9 +30,6 @@
 ---
 
 ## 📌 Featured Projects
-  
-
-> ✨ Check my pinned repos below for more!
 
 ---
 
